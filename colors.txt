@@ -1,0 +1,31 @@
+# mesecons_extrawires
+mesecons_extrawires:tjunction_off 40 40 40
+mesecons_extrawires:tjunction_on 40 40 40
+mesecons_extrawires:crossover_01 60 60 60
+mesecons_extrawires:crossover_10 60 60 60
+mesecons_extrawires:crossover_off 60 60 60
+mesecons_extrawires:crossover_on 60 60 60
+mesecons_extrawires:corner_off 70 70 70
+mesecons_extrawires:corner_on 70 70 70
+
+# mesecons_gates
+mesecons_gates:and_off 0 0 110
+mesecons_gates:and_on 0 0 110
+mesecons_gates:not_off 0 0 140
+mesecons_gates:not_on 0 0 140
+mesecons_gates:or_off 0 0 170
+mesecons_gates:or_on 0 0 170
+mesecons_gates:xor_off 0 0 200
+mesecons_gates:xor_on 0 0 200
+
+# mesecons_insulated
+mesecons_insulated:insulated_off 20 20 20
+mesecons_insulated:insulated_on 20 20 20
+
+# mesecons_lamp
+mesecons_lamp:lamp_off 0 255 0
+mesecons_lamp:lamp_on 0 255 0
+
+# mesecons_walllever
+mesecons_walllever:wall_lever_off 255 0 0
+mesecons_walllever:wall_lever_on 255 0 0
